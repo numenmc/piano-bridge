@@ -1,4 +1,4 @@
-# piano-bridge-venv
+# Minecraft piano bridge
 Play Minecraft with the piano.
 
 ## Requirements
